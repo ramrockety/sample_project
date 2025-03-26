@@ -2,7 +2,7 @@
 - Personal Interests:
   - Hiking in the great outdoors
 - Technical Interests:
-  - Web development and design
+  - Software Development and AI
 - Research-Related Interests:
   - Psychology and human behavior
     
